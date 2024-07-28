@@ -10,6 +10,6 @@ If it lands on 6, I will throw the die again. The new number will be the amout o
 Other rules, I can't go below step 0 and there's a 0,1% chance that I will fall down the stairs every time I move. I will therefore have to restart at step 0 again.
 <br>
 ## THE GOAL
-I think that after 500 throws, I will be above step 60. What are the probability that I am right ?
+I think that after 500 throws, I will be above step 60. What are the probabilities that I am right ?
 
 I will write a program to answer this question. It will get me familiar with the library NumPy as well as matplotlib.pyplot
